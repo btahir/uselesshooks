@@ -1,4 +1,5 @@
 // This hook fetches and returns a random Star Wars character every time it is called.
+// shout out to swapi.dev for the API!
 import { useState, useEffect } from 'react'
 
 const starWarsAPI = 'https://swapi.dev/api/people/'
