@@ -5,5 +5,3 @@ This is a collection of Useless React Hooks to impress your coworkers. Use these
 - Look smart and hard working
 - Add more lines of code to jack up your commit stats & bloat your codebase
 - Make it harder for other devs to follow your logic making them think you're smarter than you actually are
-
-Also - how you react to this repo says more things about you than the hooks. :mirror: :heart:
