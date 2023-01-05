@@ -5,8 +5,6 @@ function useBugGenerator() {
   useEffect(() => {
     if (Math.random() < 0.01) throw Error("Something went terribly wrong..");
   }, []);
-
-  return insult;
 }
 
 export default useBugGenerator;
