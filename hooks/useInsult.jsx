@@ -9,6 +9,10 @@ const insults = [
   'You are a buffoon.',
   'You are a nitwit.',
   'You are a simpleton.',
+  "You're ugly and your mother dresses you funny.",
+  'Your mother wears combat boots.',
+  "Don't be ashamed of who you are. That's your parents job.",
+  'Your mother was a hamster and your father smells of elderberries.'
 ]
 
 function useInsult() {
